@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/catpawswoof/static/css/main.a617e044.chunk.css",
-    "main.js": "/catpawswoof/static/js/main.e60dd15a.chunk.js",
-    "main.js.map": "/catpawswoof/static/js/main.e60dd15a.chunk.js.map",
-    "runtime-main.js": "/catpawswoof/static/js/runtime-main.64e0e062.js",
-    "runtime-main.js.map": "/catpawswoof/static/js/runtime-main.64e0e062.js.map",
-    "static/js/2.b5a87ba5.chunk.js": "/catpawswoof/static/js/2.b5a87ba5.chunk.js",
-    "static/js/2.b5a87ba5.chunk.js.map": "/catpawswoof/static/js/2.b5a87ba5.chunk.js.map",
-    "static/js/3.ef730d5e.chunk.js": "/catpawswoof/static/js/3.ef730d5e.chunk.js",
-    "static/js/3.ef730d5e.chunk.js.map": "/catpawswoof/static/js/3.ef730d5e.chunk.js.map",
+    "main.css": "/catpawswoof/static/css/main.537f0806.chunk.css",
+    "main.js": "/catpawswoof/static/js/main.b5571dda.chunk.js",
+    "main.js.map": "/catpawswoof/static/js/main.b5571dda.chunk.js.map",
+    "runtime-main.js": "/catpawswoof/static/js/runtime-main.8bb993af.js",
+    "runtime-main.js.map": "/catpawswoof/static/js/runtime-main.8bb993af.js.map",
+    "static/js/2.ae36203a.chunk.js": "/catpawswoof/static/js/2.ae36203a.chunk.js",
+    "static/js/2.ae36203a.chunk.js.map": "/catpawswoof/static/js/2.ae36203a.chunk.js.map",
+    "static/js/3.8f208839.chunk.js": "/catpawswoof/static/js/3.8f208839.chunk.js",
+    "static/js/3.8f208839.chunk.js.map": "/catpawswoof/static/js/3.8f208839.chunk.js.map",
     "index.html": "/catpawswoof/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/catpawswoof/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b5a87ba5.chunk.js.LICENSE.txt": "/catpawswoof/static/js/2.b5a87ba5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/catpawswoof/static/media/logo.6ce24c58.svg"
+    "static/css/main.537f0806.chunk.css.map": "/catpawswoof/static/css/main.537f0806.chunk.css.map",
+    "static/js/2.ae36203a.chunk.js.LICENSE.txt": "/catpawswoof/static/js/2.ae36203a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/catpawswoof/static/media/pet2-background.13a79e1c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.64e0e062.js",
-    "static/js/2.b5a87ba5.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.e60dd15a.chunk.js"
+    "static/js/runtime-main.8bb993af.js",
+    "static/js/2.ae36203a.chunk.js",
+    "static/css/main.537f0806.chunk.css",
+    "static/js/main.b5571dda.chunk.js"
   ]
 }
