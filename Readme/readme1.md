@@ -145,6 +145,11 @@ npm install gh-pages --save-dev
 ```
 
 
+```diff
+- TypeError: Cannot read properties of null (reading 'appendChild')
+```
+
+
 
 packages to install
 
