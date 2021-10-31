@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/catpawswoof/static/css/main.b44e8a6e.chunk.css",
-    "main.js": "/catpawswoof/static/js/main.9801dd75.chunk.js",
-    "main.js.map": "/catpawswoof/static/js/main.9801dd75.chunk.js.map",
+    "main.js": "/catpawswoof/static/js/main.72e840a9.chunk.js",
+    "main.js.map": "/catpawswoof/static/js/main.72e840a9.chunk.js.map",
     "runtime-main.js": "/catpawswoof/static/js/runtime-main.2315840e.js",
     "runtime-main.js.map": "/catpawswoof/static/js/runtime-main.2315840e.js.map",
-    "static/js/2.f4dbfc94.chunk.js": "/catpawswoof/static/js/2.f4dbfc94.chunk.js",
-    "static/js/2.f4dbfc94.chunk.js.map": "/catpawswoof/static/js/2.f4dbfc94.chunk.js.map",
+    "static/js/2.05a9c553.chunk.js": "/catpawswoof/static/js/2.05a9c553.chunk.js",
+    "static/js/2.05a9c553.chunk.js.map": "/catpawswoof/static/js/2.05a9c553.chunk.js.map",
     "static/js/3.37ee2c5a.chunk.js": "/catpawswoof/static/js/3.37ee2c5a.chunk.js",
     "static/js/3.37ee2c5a.chunk.js.map": "/catpawswoof/static/js/3.37ee2c5a.chunk.js.map",
     "index.html": "/catpawswoof/index.html",
     "static/css/main.b44e8a6e.chunk.css.map": "/catpawswoof/static/css/main.b44e8a6e.chunk.css.map",
-    "static/js/2.f4dbfc94.chunk.js.LICENSE.txt": "/catpawswoof/static/js/2.f4dbfc94.chunk.js.LICENSE.txt",
+    "static/js/2.05a9c553.chunk.js.LICENSE.txt": "/catpawswoof/static/js/2.05a9c553.chunk.js.LICENSE.txt",
     "static/media/App.css": "/catpawswoof/static/media/pet2-background.13a79e1c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2315840e.js",
-    "static/js/2.f4dbfc94.chunk.js",
+    "static/js/2.05a9c553.chunk.js",
     "static/css/main.b44e8a6e.chunk.css",
-    "static/js/main.9801dd75.chunk.js"
+    "static/js/main.72e840a9.chunk.js"
   ]
 }
