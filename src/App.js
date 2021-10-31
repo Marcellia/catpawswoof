@@ -14,11 +14,13 @@ function App() {
   const theme = useState("darkblue");
   return (
     <ThemeContext.Provider value={theme}>
-      <div>
+      <div className = "page">
+      
         <Router>
           <header>
             <Link to="/">CatPaws & woof!</Link>
           </header>
+          
           <Switch>
             <Route path="/details/:id">
               <Details />
