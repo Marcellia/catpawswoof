@@ -98,19 +98,17 @@ body {
   text-overflow: ellipsis;
 }
 
-header > a,
-#root > div > header {
-  /* display: inline-block; */
+.mainLogo {
   background-image: url(./CPW-logo.png);
-  /* filter: brightness(150%); */
-  width: 506px;
-  height: 212px;
-  text-indent: -9999px;
-  margin: 0 auto;
-  margin-bottom: 1.5%;
   background-repeat: no-repeat;
 
-
+  /* filter: brightness(150%); */
+  width: 506px;
+  height: 210px;
+  text-indent: -9999px;
+  margin: 0 auto;
+  margin-bottom: 1%;
+ 
 }
 
 

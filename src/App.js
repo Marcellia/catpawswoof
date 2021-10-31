@@ -17,7 +17,7 @@ function App() {
       <div className = "page">
       
         <Router>
-          <header>
+          <header className= "mainLogo">
             <Link to="/">CatPaws & woof!</Link>
           </header>
           
