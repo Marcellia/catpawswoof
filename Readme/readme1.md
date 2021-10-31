@@ -149,7 +149,9 @@ npm install gh-pages --save-dev
 - TypeError: Cannot read properties of null (reading 'appendChild')
 ```
 
-
+```diff
+-dog31.jpg:1 Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID
+```
 
 packages to install
 

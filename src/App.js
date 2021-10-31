@@ -1,7 +1,7 @@
 import './App.css';
 import { render } from "react-dom";
 import SearchParams from "./SearchParams";
-import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
+import { BrowserRouter as Router, HashRouter, Route, Switch, Link } from "react-router-dom";
 import Details from "./Details";
 import { StrictMode } from "react";
 import { ReactDOM } from "react";
@@ -10,17 +10,15 @@ import ThemeContext from "./ThemeContext";
 
 
 
-function App() {
+const App = () => {
   const theme = useState("darkblue");
   return (
     <ThemeContext.Provider value={theme}>
-      <div className = "page">
-      
-        <Router>
-          <header className= "mainLogo">
-            <Link to="/">CatPaws & woof!</Link>
+      <div>
+        <HashRouter>
+          <header >
+            <Link to ="/" className="mainLogo">CatPaws & woof!</Link>
           </header>
-          
           <Switch>
             <Route path="/details/:id">
               <Details />
@@ -29,7 +27,7 @@ function App() {
               <SearchParams />
             </Route>
           </Switch>
-        </Router>
+        </HashRouter>
 
         {/* <Pet name="Luna" animal="dog" breed="Havanese" />
       <Pet name="Pepper" animal="bird" breed="Cockatiel" />
